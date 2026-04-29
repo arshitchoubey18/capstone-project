@@ -14,6 +14,8 @@ It simulates a real-world cloud-native deployment workflow where application cod
 
 GitHub → Jenkins CI Pipeline → Docker Build → AWS ECR → Kubernetes (EKS via Helm) → Monitoring (Prometheus + Grafana)
 
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/2d2f9c49-7360-4443-b6bf-441c78e3a836" />
+
 ---
 
 ## ⚙️ Tech Stack
