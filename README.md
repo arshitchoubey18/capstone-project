@@ -178,9 +178,7 @@ helm install app ./capstone-chart
 
 ---
 
-## 🧠 Interview Talking Points
-
-You should be able to explain:
+## 🧠 Talking Points
 
 * How Jenkins triggers CI/CD pipeline
 * How Docker image flows to ECR
@@ -209,7 +207,7 @@ Technical Support Engineer → DevOps Engineer (Transitioning)
 ---
 
 ## 📎 Status
-
+```
 ✔ CI/CD Pipeline Ready
 ✔ Kubernetes Deployment Ready
 ✔ AWS EKS Infrastructure Ready
